@@ -17,7 +17,7 @@
 }
 .box1 {
  background-color: #1dd0ad;
- order: 7;
+ order: 1;
 }
 .box2 {
  background-color: #2fcc72;
@@ -36,7 +36,7 @@
 }
 .box7 {
  background-color: #e67e22;
- order: -5;
+ order: -1;
 }
 .box8 {
  background-color: #e74c3c;
